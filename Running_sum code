@@ -1,0 +1,10 @@
+calculate a running sum
+
+LET counter = 0
+FUNCTION to_add_inputs
+    INPUT received
+    IF INPUT.IS_POSITIVE() == TRUE
+        counter = previousCounterValue + INPUT
+    ELSE IF INPUT.IS_POSITIVE() == FALSE
+        PRINT counter
+CALL FUNCTION to_add_inputs()
