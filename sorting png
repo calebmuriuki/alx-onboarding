@@ -1,0 +1,10 @@
+Start
+Accept 3 numbers from user(num1,num2,num3)
+if num1<num2 go to step 4 else to step 8
+if num1<num3 go to step 5 else go to step 7
+if num 2<num 3 go to step 9 else go to step 6
+interchange num 2 and num 3 go step 9
+interchange num 1 and num 3 go to step 3
+interchange num 1 and num 2 go to step 3
+display num 1,2,3 in ascending order
+stop
