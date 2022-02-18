@@ -1,0 +1,4 @@
+create a counter that holds the value of calculation
+create and call function to perform this calculation and it runs as inputs are being received
+if a postive input is received,the function will add input to the current value of the counter
+if a negative input is received this function is stopped and its value of the counter is printed.
